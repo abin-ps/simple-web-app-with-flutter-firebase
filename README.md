@@ -13,6 +13,7 @@ Check this [video tutorial](https://www.youtube.com/watch?v=lcc7eKcQVWQ) for set
 
 ## Update Hosted project:
 - To update hosted project, run following commands on your project directory.
+
   step 1: "flutter build web"
 
   step 2: "firebase deploy"
