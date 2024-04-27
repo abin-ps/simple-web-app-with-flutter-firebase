@@ -1,9 +1,9 @@
 # Simple Webapp with Flutter
 
-Check this [video tuitorial](https://www.youtube.com/watch?v=lcc7eKcQVWQ) for setting up your own webapp and hosting it with firebase.
+Check this [video tutorial](https://www.youtube.com/watch?v=lcc7eKcQVWQ) for setting up your own webapp and hosting it with firebase.
 
 ## Firebase Hosting:
-- If your'e hosting your project for first time you need to run following commands, before that watch the above mentioned video tuitorial. 
+- If your'e hosting your project for first time you need to run following commands, before that watch the above mentioned video tutorial. 
 
   step 1: run "flutter build web"
 
